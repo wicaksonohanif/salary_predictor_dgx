@@ -19,7 +19,7 @@ div.stButton > button {
 """, unsafe_allow_html=True)
 
 # Banner
-st.image("./assets/banner_linreg.png", use_container_width=True)
+st.image("./assets/banner_linreg.png")
 
 # Sidebar
 st.sidebar.markdown("""
@@ -311,4 +311,5 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+
 

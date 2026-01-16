@@ -1,6 +1,6 @@
-# 💵 Aplikasi Prediksi Gaji Tahunan Menggunakan Algoritma Regresi Linier Berbasis Streamlit.
+# 💵 Aplikasi Prediksi Gaji Tahunan Karyawan Menggunakan Algoritma Regresi Linier Berbasis Streamlit.
 
-![Alt Text]()
+![Alt Text](./assets/mockup_linreg.png)
 
 ## 🔎 Tentang Proyek
 Proyek ini bertujuan untuk memperkenalkan penerapan algoritma/model regresi linier dalam studi kasus berupa prediksi gaji per tahun berdasarkan variabel seperti Pengalaman dan Jam Kerja Per Minggu. Proyek ini dirancang mengikuti metodologi CRISP-DM agar proses pengembangan model dilakukan secara sistematis, terstruktur, dan mudah dievaluasi.

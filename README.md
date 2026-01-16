@@ -1,4 +1,4 @@
-# 💵 Prediksi Gaji Tahunan Menggunakan Algoritma Regresi Linier.
+# 💵 Aplikasi Prediksi Gaji Tahunan Menggunakan Algoritma Regresi Linier Berbasis Streamlit.
 
 ![Alt Text]()
 
@@ -11,13 +11,13 @@ https://salarypredictordgx.streamlit.app/
 ## 📦 Dependensi
 |  Nama  |  Versi  |
 |--------|-----------|
-|[streamlit](https://pypi.org/project/streamlit/)|1.43.2|
-|[pandas](https://pypi.org/project/pandas/)|2.2.3|
-|[matplotlib](https://pypi.org/project/matplotlib/)|3.10.1|
-|[seaborn](https://pypi.org/project/seaborn/)|0.13.2|
+|[streamlit](https://pypi.org/project/streamlit/)|1.36.0|
+|[pandas](https://pypi.org/project/pandas/)|2.2.2|
 |[joblib](https://pypi.org/project/joblib/)|1.4.2|
-|[numpy](https://pypi.org/project/numpy/)|2.2.4|
-|[scikit-learn](https://pypi.org/project/scikit-learn/)|1.6.1|
+|[scipy](https://pypi.org/project/scipy/)|1.11.4|
+|[plotly](https://pypi.org/project/plotly/)|5.22.0|
+|[numpy](https://pypi.org/project/numpy/)|1.26.4|
+|[scikit-learn](https://pypi.org/project/scikit-learn/)|1.4.2|
 
 ## 🖥️ Kebutuhan Sistem
 * Sistem Operasi (OS): Windows 10, Mac, Linux.
